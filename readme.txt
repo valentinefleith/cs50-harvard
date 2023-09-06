@@ -1,1 +1,0 @@
-Dépôt de mes exercices faits pour le MOOC CS50's introduction to Computer Science (HarvardX).
